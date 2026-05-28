@@ -53,6 +53,15 @@ Refer to: `dashboard_screenshot.png.png`
 
 ---
 
+## 🔄 Steps Performed
+
+1. Created GitHub repository and configured Git locally
+2. Downloaded and explored the supermarket sales dataset
+3. Performed data cleaning and analysis using Python and Pandas
+4. Checked missing values and calculated descriptive statistics
+5. Created visualizations and insights using Power BI
+6. Uploaded all project files and documentation to GitHub
+
 ## 👨‍💻 Author
 Maithili Jadhav
 
