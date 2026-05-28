@@ -18,10 +18,9 @@ It includes data cleaning, exploratory data analysis (EDA), and interactive dash
 ---
 
 ## 🛠️ Tools & Technologies Used
-- Python (Jupyter Notebook)
-- Pandas, NumPy (Data Analysis)
-- Matplotlib / Seaborn (Visualization)
-- Power BI (Dashboard Creation)
+Python (Jupyter Notebook)
+Pandas (Data Analysis)
+Power BI (Dashboard Creation & Visualization)
 
 ---
 
