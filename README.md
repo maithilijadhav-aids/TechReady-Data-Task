@@ -2,14 +2,14 @@
 
 # Supermarket Sales Analysis & Dashboard Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a data analysis and visualization task based on supermarket sales data.
 It includes data cleaning, exploratory data analysis (EDA), and interactive dashboard creation to understand sales trends and business insights.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** Supermarket sales dataset (`supermarket_sales.csv`)
 
@@ -22,7 +22,7 @@ Contains information such as:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Python (Jupyter Notebook)
 * Pandas (Data Analysis)
@@ -30,7 +30,7 @@ Contains information such as:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 * `analysis.ipynb` → Data cleaning and analysis notebook
 * `supermarket_sales.csv` → Raw dataset
@@ -39,7 +39,7 @@ Contains information such as:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Sales performance analysis across product categories
 * Customer purchasing behavior analysis
@@ -54,7 +54,7 @@ Refer to: `dashboard_screenshot.png`
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 1. Open `analysis.ipynb` in Jupyter Notebook to view analysis
 2. Open `sales_dashboard.pbix` in Power BI Desktop
@@ -62,7 +62,7 @@ Refer to: `dashboard_screenshot.png`
 
 ---
 
-## 🔄 Steps Performed
+##  Steps Performed
 
 * Created GitHub repository and configured Git locally
 * Downloaded and explored the supermarket sales dataset
@@ -73,12 +73,12 @@ Refer to: `dashboard_screenshot.png`
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Maithili Jadhav
 
 ---
 
-## 📌 Note
+##  Note
 
 This project demonstrates data analysis, visualization, and business insight generation using real-world sales data.
