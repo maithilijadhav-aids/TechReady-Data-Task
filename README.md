@@ -46,14 +46,14 @@ Refer to: `dashboard_screenshot.png.png`
 
 ---
 
-## 🚀 How to Use This Project
+## How to Use This Project
 1. Open `analysis.ipynb` in Jupyter Notebook to view analysis
 2. Open `sales_dashboard.pbix` in Power BI Desktop
 3. Explore dataset using Excel or Python
 
 ---
 
-## 🔄 Steps Performed
+## Steps Performed
 
 1. Created GitHub repository and configured Git locally
 2. Downloaded and explored the supermarket sales dataset
